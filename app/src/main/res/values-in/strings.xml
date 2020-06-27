@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aplikasi Github</string>
+    <string name="nama_user">Nama User</string>
+    <string name="type_user">Tipe User</string>
+    <string name="search">Cari</string>
+    <string name="follower">Follower</string>
+    <string name="following">Following</string>
+    <string name="setting">Pengaturan</string>
+    <string name="change_language">Bahasa</string>
+    <string name="reminder">Pengingat</string>
+    <string name="favorite">Favorit User</string>
+    <string name="add_favorite">Tambah Favorit</string>
+    <string name="delete_favorite">Hapus Favorit</string>
+    <string name="added_to_favorite">User Ditambahkan ke Favorit</string>
+    <string name="remove_to_favorite">User Dihapus dari Favorit</string>
+    <string name="validation">User Sudah ada di Favorit</string>
+    <string name="daily_reminder">Pengingat Harian</string>
+    <string name="daily_reminder_active">Pengingat Harian Aktif</string>
+    <string name="daily_reminder_not_active">Pengingat Harian Tidak Aktif</string>
+</resources>

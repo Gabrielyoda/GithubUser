@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My Github Apps</string>
+    <string name="nama_user">Nama User</string>
+    <string name="type_user">Type User</string>
+    <string name="search">Cari</string>
+    <string name="follower">Follower</string>
+    <string name="following">Following</string>
+    <string name="setting">Setting</string>
+    <string name="change_language">Language</string>
+    <string name="reminder">Reminder</string>
+    <string name="favorite">Favorite User</string>
+    <string name="add_favorite">Add Favorite</string>
+    <string name="delete_favorite">Remove Favorite</string>
+    <string name="added_to_favorite">User Added to Favorite</string>
+    <string name="remove_to_favorite">User Remove to Favorite</string>
+    <string name="validation">Already added to favorites</string>
+    <string name="daily_reminder">Daily Reminder</string>
+    <string name="daily_reminder_active">Daily Reminder Active</string>
+    <string name="daily_reminder_not_active">Daily Reminder Not Active</string>
+</resources>
